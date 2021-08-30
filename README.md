@@ -31,3 +31,4 @@ Interested in web development
 > 📃 **Content:** AWS에서 VPC 망, EC2 웹서버 생성, ELB로 고가용성 서버 환경 구축, S3로 웹 스토리지 구축 등을 실습  
 
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYejinHwang-D&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
