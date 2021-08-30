@@ -1,10 +1,27 @@
-- 👋 Hi, I’m @YejinHwang-D
-- 👀 I’m interested in Web
-- 🌱 I’m currently learning Javascript
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Hello! I'm Yejin Hwang 👩
+Dankook University, majoring in software  
+Interested in web development  
 
-<!---
-YejinHwang-D/YejinHwang-D is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+## What did I do?
+##  🤝🏻 Project
+### (1) SAP-JA Korea 사회적기업 디지털전환 프로젝트
+> #### Team: TimeONG팀 (총 3인)  
+> #### Content: 한국여성의집 홈페이지 제작  
+> #### Part: Front-End, Back-End 
+> #### Result: http://www.hanyeou.or.kr/
+
+### (2) 단국대학교 캡스톤디자인
+> #### 2021-1 예정  
+> Team: 미정 (총 2인)  
+> Content:  
+> Part:  
+> Result:  
+
+
+## 📕 Study
+### (1) 단국대학교 LINC+ AWS 아마존플랫폼시스템 운영실무
+> Period: 2021.07.21-2021.07.23  
+> Content: AWS에서 VPC 망, EC2 웹서버 생성, ELB로 고가용성 서버 환경 구축, S3로 웹 스토리지 구축 등을 실습  
+
+
