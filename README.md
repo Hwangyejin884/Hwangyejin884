@@ -13,7 +13,7 @@ Interested in web development
 > 💎 **Result:** http://www.hanyeou.or.kr/
 
 ### (2) 단국대학교 캡스톤디자인
-> #### 2021-1 예정  
+> #### 2021-2 예정  
 > 👩 **Team:** 미정 (총 2인)  
 > 📃 **Content:**  
 > 🛠 **Part:**  
