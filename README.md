@@ -26,8 +26,3 @@ Interested in web development.
 > 👩 **Team:** Team 7, BGR (총 2인)  
 > 📃 **Content:** We look for factors that affect write/read/space amplification in Rocksdb and discuss ways to reduce that amplification. In addition, we understand the internal structure of Rocksdb.  
 > 💎 **Result:** https://github.com/YejinHwang-D/RocksDB_Festival   
-
-### (2) 단국대학교 LINC+ AWS 아마존플랫폼시스템 운영실무
-> ☁ **Period:** 2021.07.21-2021.07.23  
-> 📃 **Content:** AWS에서 VPC 망, EC2 웹서버 생성, ELB로 고가용성 서버 환경 구축, S3로 웹 스토리지 구축 등을 실습  
-
