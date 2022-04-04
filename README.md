@@ -1,4 +1,4 @@
-# Hello! I'm Yejin Hwang 👩
+# Hello! I'm Yejin Hwang
 Dankook University, majoring in software    
 
 > Node.js, Flask   
