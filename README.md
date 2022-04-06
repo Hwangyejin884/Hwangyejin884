@@ -12,7 +12,7 @@ Dankook University, majoring in software
 > #### 2020-1
 >**Team:** TimeONG (3인)  
 >**Content:** 한국여성의집 홈페이지 제작  
->**Part:** Front-End, Back-End
+>**Part:** Front-End, Back-End  
 >**Github:** [Hompage](https://github.com/YejinHwang-D/Hompage) but, now private.  
 >**Result:** http://www.hanyeou.or.kr/
 
@@ -38,5 +38,5 @@ Dankook University, majoring in software
 ### (1) Dankook University StarLab : RocksDB Festival
 > #### 2021.07.05-2021.08.30  
 > **Team:** Team 7, BGR (2인)  
->**Content:** We look for factors that affect write/space amplification in Rocksdb and discuss ways to reduce that amplification. In addition, we understand the internal structure of Rocksdb.
+>**Content:** We look for factors that affect write/space amplification in Rocksdb and discuss ways to reduce that amplification. In addition, we understand the internal structure of Rocksdb.  
 > **Result:** [RocksDB_Festival](https://github.com/YejinHwang-D/RocksDB_Festival/tree/main/RF7_Team_Interface)
