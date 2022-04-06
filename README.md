@@ -12,24 +12,27 @@ Dankook University, majoring in software
 > #### 2020-1
 >**Team:** TimeONG (3인)  
 >**Content:** 한국여성의집 홈페이지 제작  
->**Part:** Front-End, Back-End   
+>**Part:** Front-End, Back-End
+>**Github:** [Hompage](https://github.com/YejinHwang-D/Hompage) but, now private.
 >**Result:** http://www.hanyeou.or.kr/
 
 ### 2. 블록체인을 이용한 증명서 발급 서비스
 > #### 2021-2, Capstone Design 2
 >**Team:** BGR (2인)  
-> **Part:** Front-End, Back-End  
+>**Github:** [Credential-Capstone-Design2](https://github.com/YejinHwang-D/Credential-Capstone-Design2)
+> **Part:** Front-End, Back-End
 
 ### 3. 인근 병원 검색 서비스
 > #### 2022-1 Capstone Design 1   
 >**Team:** BGR (2인)  
 > **Part:** Front-End  
+> **Github:** [Hospital-recommendation](https://github.com/YejinHwang-D/Hospital-recommendation)
 
 ### 4. 선호에 따른 게임 추천 및 해시태그 서비스
 > #### 2022-1
 >**Team:** 미정 (총 2인)  
 > **Part:** Front-End, Back-End  
-> 
+> **Github:** [Game-recommendation-service](https://github.com/YejinHwang-D/Game-recommendation-service)
 
 ## 📕 Study
 ### (1) Dankook University StarLab : RocksDB Festival
