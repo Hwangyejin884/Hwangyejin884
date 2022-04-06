@@ -31,8 +31,8 @@ Dankook University, majoring in software
 ### 4. 선호에 따른 게임 추천 및 해시태그 서비스
 > #### 2022-1
 >**Team:** 미정 (총 2인)  
-> **Part:** Front-End, Back-End  
 > **Github:** [Game-recommendation-service](https://github.com/YejinHwang-D/Game-recommendation-service)  
+> **Part:** Front-End, Back-End  
 
 ## 📕 Study
 ### (1) Dankook University StarLab : RocksDB Festival
