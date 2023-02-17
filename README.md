@@ -15,7 +15,7 @@ Dankook University, majoring in software
 >**Part:** Front-End, Back-End  
 >**Github:** [Hompage](https://github.com/YejinHwang-D/Hompage) but, now private.  
 >**Result:** http://www.hanyeou.or.kr/  
->**Renewal:** [Design](https://www.figma.com/file/oi78DPL93ZS1dxcXJ8Jm1N/%ED%95%9C%EA%B5%AD%EC%97%AC%EC%84%B1%EC%9D%98%EC%A7%91-UI%2FUX?node-id=0%3A1)
+>**Renewal:** [Design](https://www.figma.com/file/oi78DPL93ZS1dxcXJ8Jm1N/%ED%95%9C%EA%B5%AD%EC%97%AC%EC%84%B1%EC%9D%98%EC%A7%91-UI%2FUX?node-id=0%3A1), [Code](https://github.com/kmi0817/women-homepage)
 
 ### 2. 블록체인을 이용한 증명서 발급 서비스
 > #### 2021-2, Capstone Design 2
