@@ -29,11 +29,16 @@ Dankook University, majoring in software
 > **Part:** Front-End  
 > **Github:** [Hospital-recommendation](https://github.com/YejinHwang-D/Hospital-recommendation)  
 
-### 4. 선호에 따른 게임 추천 및 해시태그 서비스
-> #### 2022-1
->**Team:** 미정 (총 2인)  
-> **Github:** [Game-recommendation-service](https://github.com/YejinHwang-D/Game-recommendation-service)  
-> **Part:** Front-End, Back-End  
+### 4. 푸드레코드
+> #### 2023-1  
+> **Team:** ME (1인)  
+> **Part:** Front-End  
+> **Github:** [Food-Record](https://github.com/YejinHwang-D/Food-record)  
+
+
+
+
+
 
 ## 📕 Study
 ### (1) Dankook University StarLab : RocksDB Festival
