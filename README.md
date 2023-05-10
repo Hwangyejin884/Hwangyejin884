@@ -1,13 +1,20 @@
 # Hello! I'm Yejin Hwang
 Dankook University, majoring in software    
 
-> Node.js, Flask   
-> Javascript, Typescript, React.js  
-> MySQL, Firebase   
+> Javascript, Typescript, React.js, Next.js  
+> Node.js  
+> MongoDB, MySQL, Firebase   
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYejinHwang-D&count_bg=%23BBB4FF&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ##  🤝🏻 Project
+### 0. 원티드 프리온보딩 인턴십 프론트엔드 10차 
+> ### 2023-4 ~ 2023-05  
+> 10명으로 구성된 팀과의 **동료학습**
+> **팀장** 역할
+> 매주 2회 세션과 과제를 통해 프론트엔드 기술, 코드 리뷰, Git 관리, 클린 코드에 대해 학습
+
+
 ### 1. 한국여성의집 홈페이지 리뉴얼
 > #### 2020-1
 >**Team:** TimeONG (3인)  
